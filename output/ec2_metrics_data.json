@@ -1,0 +1,808 @@
+[
+  {
+    "timestamp": "2025-08-09T08:41:58.436246",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_in": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_out": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_out": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0,
+      "memory_usage": 0.9,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 0,
+      "execution_time": 0.31,
+      "energy_efficiency": 0.0225,
+      "task_type": "io",
+      "task_priority": "low"
+    }
+  },
+  {
+    "timestamp": "2025-08-09T08:42:06.827593",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_in": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_out": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_out": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0,
+      "memory_usage": -6.7,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 0,
+      "execution_time": 0.26,
+      "energy_efficiency": -0.1675,
+      "task_type": "compute",
+      "task_priority": "low"
+    }
+  },
+  {
+    "timestamp": "2025-08-09T08:42:16.866034",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_in": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_out": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_out": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0,
+      "memory_usage": 1.9,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 0,
+      "execution_time": 0.31,
+      "energy_efficiency": 0.0475,
+      "task_type": "io",
+      "task_priority": "low"
+    }
+  },
+  {
+    "timestamp": "2025-08-09T08:42:29.151575",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_in": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_out": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_out": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0,
+      "memory_usage": -1.6,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 0,
+      "execution_time": 0.29,
+      "energy_efficiency": -0.04,
+      "task_type": "compute",
+      "task_priority": "low"
+    }
+  },
+  {
+    "timestamp": "2025-08-09T08:42:37.890391",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0.36,
+        "max_value": 0.36,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_in": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_out": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_out": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0.4,
+      "memory_usage": 4.8,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 24000000,
+      "execution_time": 0.33,
+      "energy_efficiency": 0.13,
+      "task_type": "io",
+      "task_priority": "low"
+    }
+  },
+  {
+    "timestamp": "2025-08-09T08:42:48.401397",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0.36,
+        "max_value": 0.36,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_in": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_out": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_out": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0.4,
+      "memory_usage": 2.9,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 24000000,
+      "execution_time": 0.32,
+      "energy_efficiency": 0.0825,
+      "task_type": "io",
+      "task_priority": "low"
+    }
+  },
+  {
+    "timestamp": "2025-08-09T08:42:58.334518",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0.36,
+        "max_value": 0.36,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_in": {
+        "value": 180.0,
+        "max_value": 180.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_out": {
+        "value": 180.0,
+        "max_value": 180.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 2.0,
+        "max_value": 2.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_packets_out": {
+        "value": 2.0,
+        "max_value": 2.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0.4,
+      "memory_usage": -2.1,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 24000000,
+      "execution_time": 0.29,
+      "energy_efficiency": -0.0425,
+      "task_type": "compute",
+      "task_priority": "low"
+    }
+  },
+  {
+    "timestamp": "2025-08-09T08:43:08.134071",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0.36,
+        "max_value": 0.36,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_in": {
+        "value": 180.0,
+        "max_value": 180.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_out": {
+        "value": 180.0,
+        "max_value": 180.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 2.0,
+        "max_value": 2.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_packets_out": {
+        "value": 2.0,
+        "max_value": 2.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0.4,
+      "memory_usage": 5.4,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 24000000,
+      "execution_time": 0.34,
+      "energy_efficiency": 0.145,
+      "task_type": "io",
+      "task_priority": "low"
+    }
+  },
+  {
+    "timestamp": "2025-08-09T08:43:17.659702",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0.36,
+        "max_value": 0.36,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_in": {
+        "value": 180.0,
+        "max_value": 180.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_out": {
+        "value": 180.0,
+        "max_value": 180.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 2.0,
+        "max_value": 2.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_packets_out": {
+        "value": 2.0,
+        "max_value": 2.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0.4,
+      "memory_usage": 8.9,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 24000000,
+      "execution_time": 0.36,
+      "energy_efficiency": 0.2325,
+      "task_type": "io",
+      "task_priority": "low"
+    }
+  },
+  {
+    "timestamp": "2025-08-09T08:43:28.375261",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0.36,
+        "max_value": 0.36,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_in": {
+        "value": 180.0,
+        "max_value": 180.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_out": {
+        "value": 180.0,
+        "max_value": 180.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 2.0,
+        "max_value": 2.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "network_packets_out": {
+        "value": 2.0,
+        "max_value": 2.0,
+        "timestamp": "2025-08-09T08:40:00+00:00"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0.4,
+      "memory_usage": -11.3,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 24000000,
+      "execution_time": 0.23,
+      "energy_efficiency": -0.2725,
+      "task_type": "compute",
+      "task_priority": "low"
+    }
+  },
+  {
+    "timestamp": "2025-08-09T11:08:20.352049",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0.24,
+        "max_value": 0.24,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "network_in": {
+        "value": 150.0,
+        "max_value": 150.0,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "network_out": {
+        "value": 496.0,
+        "max_value": 496.0,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 2.0,
+        "max_value": 2.0,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "network_packets_out": {
+        "value": 8.0,
+        "max_value": 8.0,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0.2,
+      "memory_usage": 0.2,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 12000000,
+      "execution_time": 0.3,
+      "energy_efficiency": 0.01,
+      "task_type": "compute",
+      "task_priority": "low"
+    }
+  },
+  {
+    "timestamp": "2025-08-09T11:08:29.966485",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0.24,
+        "max_value": 0.24,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "network_in": {
+        "value": 150.0,
+        "max_value": 150.0,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "network_out": {
+        "value": 496.0,
+        "max_value": 496.0,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 2.0,
+        "max_value": 2.0,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "network_packets_out": {
+        "value": 8.0,
+        "max_value": 8.0,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0.2,
+      "memory_usage": 6.7,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 12000000,
+      "execution_time": 0.35,
+      "energy_efficiency": 0.1725,
+      "task_type": "io",
+      "task_priority": "low"
+    }
+  },
+  {
+    "timestamp": "2025-08-09T11:08:37.895483",
+    "instance_id": "i-0a0b42ed7dc22bbef",
+    "raw_cloudwatch": {
+      "cpu_utilization": {
+        "value": 0.3,
+        "max_value": 0.36,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "network_in": {
+        "value": 150.0,
+        "max_value": 150.0,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "network_out": {
+        "value": 496.0,
+        "max_value": 496.0,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "disk_read_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_write_bytes": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "network_packets_in": {
+        "value": 2.0,
+        "max_value": 2.0,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "network_packets_out": {
+        "value": 8.0,
+        "max_value": 8.0,
+        "timestamp": "2025-08-09T11:05:00+00:00"
+      },
+      "memory_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      },
+      "disk_space_utilization": {
+        "value": 0,
+        "max_value": 0,
+        "status": "no_data"
+      }
+    },
+    "metrics": {
+      "cpu_usage": 0.3,
+      "memory_usage": -2.4,
+      "network_traffic": 0.0,
+      "power_consumption": 20.0,
+      "num_executed_instructions": 18000000,
+      "execution_time": 0.29,
+      "energy_efficiency": -0.0525,
+      "task_type": "compute",
+      "task_priority": "low"
+    }
+  }
+]
